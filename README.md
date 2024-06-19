@@ -41,7 +41,7 @@ FoodCalorieTracker is a machine learning model that recognizes food items from i
     ```sh
     pip install -r requirements.txt
     ```
-
+Here is the link to the Food-101 dataset on Kaggle: [Food-101 Dataset](https://www.kaggle.com/dansbecker/food-101) 
 ### Dataset
 1. Download the dataset (e.g., Food-101 dataset).
 2. Unzip the dataset into the `data/` directory:
